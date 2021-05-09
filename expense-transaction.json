@@ -1,0 +1,6 @@
+{
+  "accountId": "fulano",
+  "description": "New Bike",
+  "type": "EXPENSE",
+  "value": 250
+}
